@@ -5,7 +5,7 @@
 ## Practical 1: Intro to R & GIS
 
 ### R Basics
-  6 + 8
+  6 + 10
   5 * 4
   12 - 14
   6 / 17
@@ -39,6 +39,8 @@
   sthelens <- merge(sthelens, hp.data)
   #use the qtm() function for a Quick TMap
   qtm(sthelens, fill="Burglary")
+  
+  #new change
   
 ## Practical 2: Making a Map
   
